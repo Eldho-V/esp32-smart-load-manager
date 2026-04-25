@@ -11,3 +11,4 @@ An IoT-enabled sustainable power management system built on the ESP32. This proj
 ## Repository Structure
 * `/src` - Contains the Arduino C++ source code.
 * `/docs` - Contains circuit diagrams and logic flowcharts.
+**Live Simulation:** [Click here to test the circuit!](https://wokwi.com/projects/462260996505738241)
